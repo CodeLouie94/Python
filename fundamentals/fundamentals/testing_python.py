@@ -1,5 +1,4 @@
 import random
-
 print('Welcome to Python!')
 
 print('This is a loop printing 5 times')
